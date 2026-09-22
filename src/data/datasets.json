@@ -1,35 +1,8 @@
 [
   {
-    "id": "1788139670028",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰①TEST (2026/8/31)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①TEST",
-    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=01",
-    "problems": [
-      {
-        "id": 1,
-        "title": "第1問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/8k/9/7L1/6N2/9/9/9/9 b 2r2b4g4s3n2l18p 1"
-      },
-      {
-        "id": 2,
-        "title": "第2問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8s/8k/6G2/7L1/9/9/9/9/9 b 2r2b3g3s4n3l18p 1"
-      },
-      {
-        "id": 50,
-        "title": "第50問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6r1l/8k/6R2/9/9/9/9/9/9 b G2b3g4s4n3l18p 1"
-      }
-    ],
-    "timestamp": 1788139670038
-  },
-  {
-    "id": "1781955760697",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰① (2026/6/20)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①",
+    "id": "1790057868548",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰①前 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①前",
     "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=01",
     "problems": [
       {
@@ -181,7 +154,16 @@
         "title": "第25問",
         "description": "かんたん３手詰",
         "initialSfen": "8k/9/7P1/6S2/9/9/9/9/9 b SL2r2b4g2s4n3l17p 1"
-      },
+      }
+    ],
+    "timestamp": 1790057868548
+  },
+  {
+    "id": "1790057859051",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰①後 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①後",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=01-2",
+    "problems": [
       {
         "id": 26,
         "title": "第26問",
@@ -264,7 +246,7 @@
         "id": 39,
         "title": "第39問",
         "description": "かんたん３手詰",
-        "initialSfen": "6l1l/7k1/9/7s1/9/9/9/9/9 b 2G2r2b2g3s4n2l18p 1"
+        "initialSfen": "6l1l/7k1/9/7S1/9/9/9/9/9 b 2G2r2b2g3s4n2l18p 1"
       },
       {
         "id": 40,
@@ -333,12 +315,13 @@
         "initialSfen": "6r1l/8k/6R2/9/9/9/9/9/9 b G2b3g4s4n3l18p 1"
       }
     ],
-    "timestamp": 1781955760697
+    "timestamp": 1790057859051
   },
   {
-    "id": "1779558483551",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰② (2026/5/24)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰②",
+    "id": "1790057841048",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰②前 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰②前",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=02",
     "problems": [
       {
         "id": 1,
@@ -489,7 +472,16 @@
         "title": "第25問",
         "description": "かんたん３手詰",
         "initialSfen": "6g2/6+rk1/8R/8L/9/9/9/9/9 b S2b3g3s4n3l18p 1"
-      },
+      }
+    ],
+    "timestamp": 1790057841048
+  },
+  {
+    "id": "1790057833561",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰②後 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰②後",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=02-2",
+    "problems": [
       {
         "id": 26,
         "title": "第26問",
@@ -641,12 +633,13 @@
         "initialSfen": "8l/6Bgk/6n1p/4B4/9/9/9/9/9 b S2r3g3s3n3l17p 1"
       }
     ],
-    "timestamp": 1779558483551
+    "timestamp": 1790057833561
   },
   {
-    "id": "1779558474020",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰③ (2026/5/24)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰③",
+    "id": "1790057808429",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰③前 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰③前",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=03",
     "problems": [
       {
         "id": 1,
@@ -797,7 +790,16 @@
         "title": "第25問",
         "description": "かんたん３手詰",
         "initialSfen": "9/8k/6Sp1/8p/9/9/9/9/9 b Rr2b4g3s4n4l16p 1"
-      },
+      }
+    ],
+    "timestamp": 1790057808429
+  },
+  {
+    "id": "1790057800228",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰③後 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰③後",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=03-2",
+    "problems": [
       {
         "id": 26,
         "title": "第26問",
@@ -949,12 +951,13 @@
         "initialSfen": "5r2l/6S1k/7R1/7P1/9/9/9/9/9 b 2b4g3s4n3l17p 1"
       }
     ],
-    "timestamp": 1779558474020
+    "timestamp": 1790057800228
   },
   {
-    "id": "1779554876149",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰④ (2026/5/24)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰④",
+    "id": "1790057779435",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰④前 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰④前",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=04",
     "problems": [
       {
         "id": 1,
@@ -966,25 +969,25 @@
         "id": 2,
         "title": "第2問",
         "description": "かんたん３手詰",
-        "initialSfen": "7Bk/8g/7Pp/9/9/9/9/9/9 b - 1"
+        "initialSfen": "7Bk/8g/7Pp/9/9/9/9/9/9 b 2rb3g4s4n4l16p 1"
       },
       {
         "id": 3,
         "title": "第3問",
         "description": "かんたん３手詰",
-        "initialSfen": "5+R1gk/9/7P1/9/9/9/9/9/9 b - 1"
+        "initialSfen": "5+R1gk/9/7P1/9/9/9/9/9/9 b r2b3g4s4n4l17p 1"
       },
       {
         "id": 4,
         "title": "第4問",
         "description": "かんたん３手詰",
-        "initialSfen": "7gk/9/5+B1P1/9/9/9/9/9/9 b - 1"
+        "initialSfen": "7gk/9/5+B1P1/9/9/9/9/9/9 b 2rb3g4s4n4l17p 1"
       },
       {
         "id": 5,
         "title": "第5問",
         "description": "かんたん３手詰",
-        "initialSfen": "6+R1l/6Sgk/8p/9/9/9/9/9/9 b - 1"
+        "initialSfen": "6+R1l/6Sgk/8p/9/9/9/9/9/9 b r2b3g3s4n3l17p 1"
       },
       {
         "id": 6,
@@ -1008,25 +1011,25 @@
         "id": 9,
         "title": "第9問",
         "description": "かんたん３手詰",
-        "initialSfen": "7sk/7Rs/6+B2/9/9/9/9/9/9 b - 1"
+        "initialSfen": "7sk/7Rs/6+B2/9/9/9/9/9/9 b rb4g2s4n4l18p 1"
       },
       {
         "id": 10,
         "title": "第10問",
         "description": "かんたん３手詰",
-        "initialSfen": "7sk/7Rr/6+B2/9/9/9/9/9/9 b - 1"
+        "initialSfen": "7sk/7Rr/6+B2/9/9/9/9/9/9 b b4g3s4n4l18p 1"
       },
       {
         "id": 11,
         "title": "第11問",
         "description": "かんたん３手詰",
-        "initialSfen": "6s1l/6+Bsk/8p/7R1/9/9/9/9/9 b - 1"
+        "initialSfen": "6s1l/6+Bsk/8p/7R1/9/9/9/9/9 b rb4g2s4n3l17p 1"
       },
       {
         "id": 12,
         "title": "第12問",
         "description": "かんたん３手詰",
-        "initialSfen": "5R1sl/6+Bgk/8p/9/9/9/9/9/9 b - 1"
+        "initialSfen": "5R1sl/6+Bgk/8p/9/9/9/9/9/9 b rb3g3s4n3l17p 1"
       },
       {
         "id": 13,
@@ -1056,13 +1059,13 @@
         "id": 17,
         "title": "第17問",
         "description": "かんたん３手詰",
-        "initialSfen": "5B3/8k/6R1g/8p/9/9/9/9/9 b - 1"
+        "initialSfen": "5B3/8k/6R1g/8p/9/9/9/9/9 b rb3g4s4n4l17p 1"
       },
       {
         "id": 18,
         "title": "第18問",
         "description": "かんたん３手詰",
-        "initialSfen": "5Bgk1/9/6R2/9/9/9/9/9/9 b - 1"
+        "initialSfen": "5Bgk1/9/6R2/9/9/9/9/9/9 b rb3g4s4n4l18p 1"
       },
       {
         "id": 19,
@@ -1086,7 +1089,7 @@
         "id": 22,
         "title": "第22問",
         "description": "かんたん３手詰",
-        "initialSfen": "5gsnl/5RS1k/7pp/9/9/9/9/9/9 b - 1"
+        "initialSfen": "5gsnl/5RS1k/7pp/9/9/9/9/9/9 b r2b3g2s3n3l16p 1"
       },
       {
         "id": 23,
@@ -1105,48 +1108,57 @@
         "title": "第25問",
         "description": "かんたん３手詰",
         "initialSfen": "9/8k/6Spl/9/6B1P/9/9/9/9 b 2rb4g3s4n3l16p 1"
-      },
+      }
+    ],
+    "timestamp": 1790057779435
+  },
+  {
+    "id": "1790057766345",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰④後 (2026/9/22)",
+    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰④後",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=04-2",
+    "problems": [
       {
         "id": 26,
         "title": "第26問",
         "description": "かんたん３手詰",
-        "initialSfen": "9/6+Blg/6+B1k/7p1/9/9/9/9/9 b - 1"
+        "initialSfen": "9/6+Blg/6+B1k/7p1/9/9/9/9/9 b 2r3g4s4n3l17p 1"
       },
       {
         "id": 27,
         "title": "第27問",
         "description": "かんたん３手詰",
-        "initialSfen": "6snk/6Rl1/7S1/9/9/9/9/9/9 b - 1"
+        "initialSfen": "6snk/6Rl1/7S1/9/9/9/9/9/9 b r2b4g2s3n3l18p 1"
       },
       {
         "id": 28,
         "title": "第28問",
         "description": "かんたん３手詰",
-        "initialSfen": "9/9/6Bpk/6+R1l/7n1/9/9/9/9 b - 1"
+        "initialSfen": "9/9/6Bpk/6+R1l/7n1/9/9/9/9 b rb4g4s3n3l17p 1"
       },
       {
         "id": 29,
         "title": "第29問",
         "description": "かんたん３手詰",
-        "initialSfen": "9/6+Rgk/9/9/9/9/9/9/9 b G 1"
+        "initialSfen": "9/6+Rgk/9/9/9/9/9/9/9 b Gr2b2g4s4n4l18p 1"
       },
       {
         "id": 30,
         "title": "第30問",
         "description": "かんたん３手詰",
-        "initialSfen": "9/6+Rgk/9/7p1/9/9/9/9/9 b S 1"
+        "initialSfen": "9/6+Rgk/9/7p1/9/9/9/9/9 b Sr2b3g3s4n4l17p 1"
       },
       {
         "id": 31,
         "title": "第31問",
         "description": "かんたん３手詰",
-        "initialSfen": "7k1/5p1g1/7+R1/9/9/9/9/9/9 b G 1"
+        "initialSfen": "7k1/5p1g1/7+R1/9/9/9/9/9/9 b Gr2b2g4s4n4l17p 1"
       },
       {
         "id": 32,
         "title": "第32問",
         "description": "かんたん３手詰",
-        "initialSfen": "5g1k1/7g1/7+R1/9/9/9/9/9/9 b G 1"
+        "initialSfen": "5g1k1/7g1/7+R1/9/9/9/9/9/9 b Gr2bg4s4n4l18p 1"
       },
       {
         "id": 33,
@@ -1164,7 +1176,7 @@
         "id": 35,
         "title": "第35問",
         "description": "かんたん３手詰",
-        "initialSfen": "7nl/5Rg1k/8p/9/9/9/9/9/9 b - 1"
+        "initialSfen": "7nl/5Rg1k/8p/9/9/9/9/9/9 b r2b3g4s3n3l17p 1"
       },
       {
         "id": 36,
@@ -1176,25 +1188,25 @@
         "id": 37,
         "title": "第37問",
         "description": "かんたん３手詰",
-        "initialSfen": "7kl/9/5R3/9/9/9/9/9/9 b G 1"
+        "initialSfen": "7kl/9/5R3/9/9/9/9/9/9 b Gr2b3g4s4n3l18p 1"
       },
       {
         "id": 38,
         "title": "第38問",
         "description": "かんたん３手詰",
-        "initialSfen": "7kl/5p3/5R3/9/9/9/9/9/9 b S 1"
+        "initialSfen": "7kl/5p3/5R3/9/9/9/9/9/9 b Sr2b4g3s4n3l17p 1"
       },
       {
         "id": 39,
         "title": "第39問",
         "description": "かんたん３手詰",
-        "initialSfen": "6+Rs1/8k/7p1/9/9/9/9/9/9 b RG 1"
+        "initialSfen": "6+Rs1/8k/7p1/9/9/9/9/9/9 b RG2b3g3s4n4l17p 1"
       },
       {
         "id": 40,
         "title": "第40問",
         "description": "かんたん３手詰",
-        "initialSfen": "6+Rs1/8k/7pp/9/9/9/9/9/9 b 2G 1"
+        "initialSfen": "6+Rs1/8k/7pp/9/9/9/9/9/9 b 2Gr2b2g3s4n4l16p 1"
       },
       {
         "id": 41,
@@ -1218,7 +1230,7 @@
         "id": 44,
         "title": "第44問",
         "description": "かんたん３手詰",
-        "initialSfen": "7nl/6Rnk/8p/5p3/9/9/9/9/9 b BN 1"
+        "initialSfen": "7nl/6Rnk/8p/5p3/9/9/9/9/9 b BNrb4g4sn3l16p 1"
       },
       {
         "id": 45,
@@ -1257,6 +1269,6 @@
         "initialSfen": "5g1nl/6sk1/6ppp/5B3/9/9/9/9/9 b GN2rb2g3s2n3l15p 1"
       }
     ],
-    "timestamp": 1779554876149
+    "timestamp": 1790057766345
   }
 ]
